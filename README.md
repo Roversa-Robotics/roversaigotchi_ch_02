@@ -1,6 +1,5 @@
 
-> Open this page at [https://marianaarboleda.github.io/roversaigotchi_ch_02/](https://marianaarboleda.github.io/roversaigotchi_ch_02/)
-
+> Open this page at [https://roversa-robotics.github.io/roversaigotchi_ch_02/](https://roversa-robotics.github.io/roversaigotchi_ch_02/)
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
@@ -8,7 +7,7 @@ This repository can be added as an **extension** in MakeCode.
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **New Project**
 * click on **Extensions** under the gearwheel menu
-* search for **https://github.com/marianaarboleda/roversaigotchi_ch_02** and import
+* search for **https://roversa-robotics.github.io/roversaigotchi_ch_02/** and import
 
 ## Edit this project
 
@@ -16,7 +15,7 @@ To edit this repository in MakeCode.
 
 * open [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * click on **Import** then click on **Import URL**
-* paste **https://github.com/marianaarboleda/roversaigotchi_ch_02** and click import
+* paste **https://roversa-robotics.github.io/roversaigotchi_ch_02/** and click import
 
 #### Metadata (used for search, rendering)
 
